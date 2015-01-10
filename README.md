@@ -16,3 +16,4 @@ WSGIPythonPath /home/ubuntu/mysite.com
   </Directory>
 </VirtualHost>
 ```
+ref. https://docs.djangoproject.com/en/1.7/howto/deployment/wsgi/modwsgi/
